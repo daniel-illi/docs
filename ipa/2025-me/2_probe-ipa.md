@@ -51,11 +51,11 @@ Mit dieser Probe-IPA soll ein neues Konzept und Datenmodell für die Persistieru
 
 ### Individuelle Beurteilungskriterien
 
-1 Entwurf, Design (Programmierung)
-2 Dokumentation Datenbanken, Tabellen, etc.
-3 Visualisierungen / UML
-4 Problemanalyse (Programmieren)
-5 Versionsverwaltung mit Git (Source Code) 
+1. Entwurf, Design (Programmierung)
+2. Dokumentation Datenbanken, Tabellen, etc.
+3. Visualisierungen / UML
+4. Problemanalyse (Programmieren)
+5. Versionsverwaltung mit Git (Source Code) 
 
 ### Mittel und Methoden
 
