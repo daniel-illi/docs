@@ -40,13 +40,13 @@ Diese IPA befasst sich ...
 
 ### Individuelle Beurteilungskriterien
 
-1 Entwurf, Design (Programmierung)
-2 Dokumentation Datenbanken, Tabellen, etc.
-3 Visualisierungen / UML
-4 Bewertung von Aussagen
-5 Problemanalyse (Programmieren)
-6 Automatisierte Tests mit rspec
-7 Versionsverwaltung mit Git (Source Code) 
+1. Entwurf, Design (Programmierung)
+2. Dokumentation Datenbanken, Tabellen, etc.
+3. Visualisierungen / UML
+4. Bewertung von Aussagen
+5. Problemanalyse (Programmieren)
+6. Automatisierte Tests mit rspec
+7. Versionsverwaltung mit Git (Source Code) 
 
 ### Mittel und Methoden
 
